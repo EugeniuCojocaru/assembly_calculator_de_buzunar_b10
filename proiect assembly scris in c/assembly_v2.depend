@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558266461 source:c:\users\eugeniucojocaru\desktop\assembly_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558607154 source:c:\users\eugeniucojocaru\desktop\proiect assembly\assembly_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
